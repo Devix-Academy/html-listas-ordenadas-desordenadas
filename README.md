@@ -9,7 +9,7 @@ Pusiste a prueba tus conocimientos con las listas ordenadas y desordenadas en la
 ### Instrucciones:
 1. Fork del repositorio en Github:
 
-    * Accede a la URL del repositorio https://github.com
+    * Accede a la URL del repositorio https://github.com/Devix-Academy/html-listas-ordenadas-desordenadas
     * Haz clic en el botón "Fork" ubicado en la esquina superior derecha.
     * Elige tu cuenta de GitHub y selecciona una reubicación para tu fork.
     * Haz clic en el botón "Fork repository" para crear tu copia personal del repositorio.
