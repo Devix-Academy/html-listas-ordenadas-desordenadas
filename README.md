@@ -9,7 +9,6 @@ Pusiste a prueba tus conocimientos con las listas ordenadas y desordenadas en la
 ### Instrucciones:
 1. Fork del repositorio en Github:
 
-    * Accede a la URL del repositorio https://github.com/Devix-Academy/html-listas-ordenadas-desordenadas
     * Haz clic en el botón "Fork" ubicado en la esquina superior derecha.
     * Elige tu cuenta de GitHub y selecciona una reubicación para tu fork.
     * Haz clic en el botón "Fork repository" para crear tu copia personal del repositorio.
@@ -20,7 +19,7 @@ Pusiste a prueba tus conocimientos con las listas ordenadas y desordenadas en la
     * Navega hasta el directorio donde deseas clonar el repositorio (tu carpeta de proyectos).
     * Ejecuta el siguiente comando: git clone https://github.com/Devix-Academy/html-listas-ordenadas-desordenadas.git
     * Ejecuta el comando cd + tab y accede al directorio en el que acabas de crear el proyecto
-    * Ejecuta code + barra espace + tecla enter. Esto te llevará automaitamente a Vscode
+    * Ejecuta code + barra espace + tecla enter. Esto te llevará automaticamente a Vscode
     
 
 3. Usar un archivo .html para cada ejercicio:
