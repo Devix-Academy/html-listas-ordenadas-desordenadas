@@ -29,15 +29,20 @@ Pusiste a prueba tus conocimientos con las listas ordenadas y desordenadas en la
 
 ## Ejercicios
 
-1. Lista de compras simple: Crea una lista desordenada con al menos 5 artículos para comprar en el supermercado.
+## Ejercicio # 1: Lista de compras simple 
+Crea una lista desordenada con al menos 5 artículos para comprar en el supermercado.
 
-2. Pasos para hacer una receta: Crea una lista ordenada con los pasos para preparar tu plato favorito. Incluye al menos 6 pasos.
+## Ejercicio # 2: Pasos para hacer una receta 
+Crea una lista ordenada con los pasos para preparar tu plato favorito. Incluye al menos 6 pasos.
 
-3. Lista de tareas con sublistas: Crea una lista desordenada de 3 tareas principales para el día. Debajo de cada tarea principal, añade una lista ordenada con al menos 3 subtareas.
+## Ejercicio # 3: Lista de tareas con sublistas
+Crea una lista desordenada de 3 tareas principales para el día. Debajo de cada tarea principal, añade una lista ordenada con al menos 3 subtareas.
 
-4. Plan de viaje con actividades: Crea una lista ordenada con 5 días de un viaje. Para cada día, incluye una lista desordenada con al menos 3 actividades planeadas.
+## Ejercicio # 4: Plan de viaje con actividades 
+Crea una lista ordenada con 5 días de un viaje. Para cada día, incluye una lista desordenada con al menos 3 actividades planeadas.
 
-5. Guía de estudio con temas y subtemas: Crea una lista ordenada con 4 materias de estudio. Para cada materia, incluye una lista desordenada con 3 temas principales. Luego, para al menos dos de estos temas, añade otra lista ordenada con 3 subtemas.
+## Ejercicio # 5: Guía de estudio con temas y subtemas
+Crea una lista ordenada con 4 materias de estudio. Para cada materia, incluye una lista desordenada con 3 temas principales. Luego, para al menos dos de estos temas, añade otra lista ordenada con 3 subtemas.
 
 **¡No te rindas!** Si encuentras algún obstáculo durante los ejercicios, no dudes en consultar recursos adicionales, buscar ayuda en la comunidad online o repasar los conceptos aprendidos en el curso. Recuerda que la práctica constante es la clave para dominar el lenguaje HTML.
 
