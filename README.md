@@ -1,4 +1,4 @@
-# ¡5 Ejercicios para dominar las listas ordenadas y desordenadas en HTML!
+# Ejercicios para poner a prueba tus conocimientos de la lección: listas ordenadas y desordenadas
 
 **¡Desafía tus habilidades HTML!**
 
