@@ -17,7 +17,7 @@ Pusiste a prueba tus conocimientos con las listas ordenadas y desordenadas en la
 
     * Abre un terminal o ventana de comandos en tu PC.
     * Navega hasta el directorio donde deseas clonar el repositorio (tu carpeta de proyectos).
-    * Ejecuta el siguiente comando: git clone https://github.com/Devix-Academy/html-listas-ordenadas-desordenadas.git
+    * Ejecuta el siguiente comando: git clone https://github.com/Devix-Academy/html-ordered-unordered-list.git
     * Ejecuta el comando cd + tab y accede al directorio en el que acabas de crear el proyecto
     * Ejecuta code + barra espace + tecla enter. Esto te llevará automaticamente a Vscode
     
